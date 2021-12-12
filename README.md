@@ -26,7 +26,7 @@ The notebook is saved as __EDA.ipynb__.
 
 Here below are some highlights from this data analysis. 
 
-![Distribution of Age](images/age_distibution.png)
+![Distribution of Age](images/age_distribution.png)
 ![Debt Ratio distribution based on Delinquency](images/boxplot.png)
 ![Monthly Income KDA plot](images/kdaplot.png)
 ![Correlation matrix](images/heatmap.png)
